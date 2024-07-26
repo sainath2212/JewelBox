@@ -12,7 +12,7 @@ export const Deal = () => {
                 <h2>DEALS OF THE DAY</h2>
                 <h4>UPTO 60% OFF</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et purus a odio finibus bibendum in sit
-                  amet leo. Mauris feugiat erat tellus</p>
+                  amet leo. Mauris feugiat erat tellus Lorem, ipsum.</p>
               </div>
             </div>
           </div>
